@@ -1,0 +1,13 @@
+#start == end room
+5
+##start
+##end
+s 1 0
+end 5 0
+2 5 5
+3 5 5
+2-s
+3-2
+3-s
+3-end
+2-end

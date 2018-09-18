@@ -1,0 +1,13 @@
+#room starting with 'L' not allowed
+5
+##start
+Lala 1 0
+##end
+end 5 0
+2 5 5
+3 5 5
+2-Lala
+3-2
+3-Lala
+3-end
+2-end

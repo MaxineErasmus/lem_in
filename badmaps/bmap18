@@ -1,0 +1,14 @@
+#room name already exists (3 5 5 vs. 3 3 9)
+5
+##start
+s 1 0
+##end
+2 1 0
+end 5 0
+3 5 5
+3 3 9
+2-s
+3-2
+3-s
+3-end
+2-end
